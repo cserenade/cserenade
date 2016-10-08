@@ -1,7 +1,7 @@
 # Site settings
 title: cSerenade
 description: "cSerenade is an application which allows you to use custom assets on Counter-Strike. "
-baseurl: "/" # the subpath of your site
+baseurl: "" # the subpath of your site
 url: "http://cserenade.github.io"
 
 # User settings

@@ -1,8 +1,8 @@
 # Site settings
-title: cSerenade
-description: "cSerenade is an application which allows you to use custom assets on Counter-Strike. "
-baseurl: "" # the subpath of your site
-url: "http://cserenade.github.io"
+title: test
+description: "Um blog sobre desenvolvimento web"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://cserenade.github.io" #http://localhost:3000
 
 # User settings
 username: lorem ipsum
